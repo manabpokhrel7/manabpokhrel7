@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manabpokhrel7
-- 👀 I’m interested in web development and graphics desgining
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on graphics desgining
+- 👀 I’m interested in web development
+- Certified Solutions Architect Associate
+- Learning Linux
 - 📫 How to reach me email: manabpokhrel7@gmail.com
 
 <!---
